@@ -1,0 +1,6 @@
+{
+  "name": "LocalJupyter",
+  "description": "Create, edit, execute, and save interactive Jupyter notebooks (.ipynb) locally with persistent Python state, rich outputs, and scientific computing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

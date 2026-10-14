@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Top Jupyter Crescent / Orbit Arc (Orange) -->
+    <path
+        android:fillColor="#F37626"
+        android:pathData="M32,46 C36,36 44,30 54,30 C64,30 72,36 76,46 C71,39 63,35 54,35 C45,35 37,39 32,46 Z" />
+    
+    <!-- Bottom Jupyter Crescent / Orbit Arc (Orange) -->
+    <path
+        android:fillColor="#F37626"
+        android:pathData="M76,62 C72,72 64,78 54,78 C44,78 36,72 32,62 C37,69 45,73 54,73 C63,73 71,69 76,62 Z" />
+
+    <!-- Top Planetary Body (Python Blue) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,22 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+
+    <!-- Center Core / Python Gold -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,54 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+
+    <!-- Bottom Left Satellite (Slate White) -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,76 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Bottom Right Satellite (Jupyter Orange) -->
+    <path
+        android:fillColor="#F37626"
+        android:pathData="M78,76 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+</vector>
